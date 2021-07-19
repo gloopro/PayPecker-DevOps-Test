@@ -2,7 +2,8 @@
 
 
 Task 1
-- Install and set up dockerhttps://github.com/gloopro/Simple-Laravel-CRUD
+- Login to the provided ec2 instance using the credentials given to you.
+- Install and set up docker 
 - Dockerize the laravel application in this repository (https://github.com/gloopro/Simple-Laravel-CRUD).
 - Build a docker image and run it. (All ports have been externally opened via the aws seurity group)
 - Install and set up nginx and ensure the application can be visited using the domain assigned to you, (ALso ensure ssl is setup. You can use certbot)
